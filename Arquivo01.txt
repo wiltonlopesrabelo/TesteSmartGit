@@ -4,3 +4,5 @@ Terceiro commit dev
 Terceiro commit master master
 Quarto commit arquivo 1
 Quinto commit arquivo 1
+Segundo commit master master
+Terceiro commit master master
